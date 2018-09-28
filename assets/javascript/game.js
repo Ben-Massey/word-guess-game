@@ -1,6 +1,6 @@
 var doubleWord = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
                   
-var wordBank =['cayde','zavala','ikora', 'xol','crucible','gaurdian','ghost', 'shaxx', 'fallen', 'vex', 'cabal', 'hive', 'scorn', 'taken'];
+var wordBank =['cayde','zavala','ikora', 'xol','crucible','gaurdian','ghost', 'shaxx', 'fallen', 'vex', 'cabal', 'hive', 'scorn', 'taken', 'hunter', 'warlock', 'titan'];
 var choosenWord = "";
 var lettersInWord = [];
 var numBlanks = 0;
